@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Python Loop Lesson
+This file serves as the primary lesson plan document for the Python Loop Lesson repository.
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
